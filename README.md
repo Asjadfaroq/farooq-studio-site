@@ -20,22 +20,6 @@
 
 ---
 
-## Screenshots
-
-<div align="center">
-
-<!-- Add images under public/readme/ and uncomment, e.g.:
-<img src="public/readme/hero.png" alt="Farooq Studio — Hero" width="800" />
-<br/><br/>
-<img src="public/readme/contact.png" alt="Farooq Studio — Contact" width="800" />
--->
-
-*Add PNG or WebP screenshots to `public/readme/` and reference them here.*
-
-</div>
-
----
-
 ## Features
 
 - **Bilingual UI** — English and Arabic with RTL layout, shared copy in `app/i18n/translations.ts`
