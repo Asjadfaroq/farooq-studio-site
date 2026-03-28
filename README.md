@@ -4,9 +4,7 @@
 
 **Bilingual marketing & portfolio site — English / Arabic, scroll-driven motion, and a polished contact experience.**
 
-[![Live App](https://img.shields.io/badge/Live_App-Deploy_to_update-facc15?style=for-the-badge&logo=vercel&logoColor=000)](#deployment)
-
-*After you deploy, change the badge link to your production URL.*
+[![Live App](https://img.shields.io/badge/Live_App-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=fff)](https://farooq-studio-site.vercel.app/)
 
 </div>
 
@@ -124,7 +122,7 @@ No backend or database is required for local development.
 
 ## Deployment
 
-- **Vercel (recommended)** — Import the repo, use the default Next.js preset, and deploy. Set the production URL in your README badge when live.
+- **Vercel (recommended)** — Import the repo, use the default Next.js preset, and deploy. **Live:** [farooq-studio-site.vercel.app](https://farooq-studio-site.vercel.app/)
 
 - **Other hosts** — Run `npm run build` and `npm run start`, or use a Node adapter compatible with Next.js 16.
 
@@ -141,6 +139,6 @@ This project is provided as-is for learning and portfolio use.
 **Developed by [Asjad Farooq](https://www.linkedin.com/in/asjadfarooqconnect)**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Asjad_Farooq-0a66c2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/asjadfarooqconnect)
-[![GitHub](https://img.shields.io/badge/GitHub-Asjadfaroq-24292e?style=flat-square&logo=github)](https://github.com/Asjadfaroq)
+[![Portfolio](https://img.shields.io/badge/Portfolio-asjadfarooq.netlify.app-00C7B7?style=flat-square&logo=netlify&logoColor=fff)](https://asjadfarooq.netlify.app/)
 
 </div>
